@@ -16,8 +16,8 @@ Tool to download all extensions from an OCC instance
 
 Options:
   -V, --version                       output the version number
-  -s, --sourceserver <sourceserver>   Occ Admin url for source instance (from)
-  -k, --sourcekey <sourcekey>         Occ Admin api key for source instance (from)
+  -s, --sourceserver <sourceserver>   Occ Admin url for source instance
+  -k, --sourcekey <sourcekey>         Occ Admin api key for source instance
   -h, --help                          output usage information
 ```
 
