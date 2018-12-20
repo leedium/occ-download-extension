@@ -1,6 +1,9 @@
 # occ-download-extensions
 Helper to download installed [Oracle Commerce Cloud](https://cloud.oracle.com/en_US/commerce-cloud "Oracle Commerce Cloud") extensions to their associated zipfiles.
 
+This tool will authenticate with OCC, get the list of installed extensions, and dowload each one to the immediate folder.
+
+
 #installation
 ```
 $ npm i -g
@@ -14,8 +17,8 @@ Tool to download all extensions from an OCC instance
 
 Options:
   -V, --version                       output the version number
-  -s, --sourceserver <sourceserver>   Occ Admin url for source instance (from)
-  -k, --sourcekey <sourcekey>         Occ Admin api key for source instance (from)
+  -s, --sourceserver <sourceserver>   Occ Admin url for source instance
+  -k, --sourcekey <sourcekey>         Occ Admin api key for source instance
   -h, --help                          output usage information
 ```
 
