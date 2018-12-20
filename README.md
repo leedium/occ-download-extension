@@ -3,6 +3,7 @@ Helper to download installed [Oracle Commerce Cloud](https://cloud.oracle.com/en
 
 This tool will authenticate with OCC, get the list of installed extensions, and dowload each one to the immediate folder.
 
+
 #installation
 ```
 $ npm i -g
