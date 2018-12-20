@@ -1,5 +1,5 @@
-# occ-download-extension
-Helper to download and extension to a zipfile.
+# occ-download-extensions
+Helper to download installed [Oracle Commerce Cloud](https://cloud.oracle.com/en_US/commerce-cloud "Oracle Commerce Cloud") extensions to their associated zipfiles.
 
 #installation
 ```
