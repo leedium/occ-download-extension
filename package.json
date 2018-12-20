@@ -1,0 +1,28 @@
+{
+  "name": "occ-generate-extensions",
+  "version": "1.0.0",
+  "description": "Tool to download all extensions from an OCC instance",
+  "main": "index.js",
+  "bin": {
+    "ode": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leedium/occ-generate-extensions.git"
+  },
+  "author": "LEEDIUM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leedium/occ-generate-extensions/issues"
+  },
+  "homepage": "https://github.com/leedium/occ-generate-extensions#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {
+    "commander": "^2.19.0"
+  }
+}
